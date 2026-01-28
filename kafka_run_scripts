@@ -1,0 +1,7 @@
+1. Run the zookeeper server
+   cmd: & "C:\Users\Amadan\kafka\bin\windows\zookeeper-server-start.bat" "C:\Users\Amadan\kafka\config\zookeeper.properties"
+2. Run the kafka server
+   cmd: & "C:\Users\Amadan\kafka\bin\windows\kafka-server-start.bat" "C:\Users\Amadan\kafka\config\server.properties"
+3. Run the spark server
+4. Run the e_commerce_producer.py
+5. Run the e_commerce_consumer.py
